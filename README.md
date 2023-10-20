@@ -15,8 +15,15 @@ https://github.com/prathi736/CRUD-LS-operations/assets/63576303/d2dd8342-7bb2-45
 
 ## 📸 Screenshot of the Application
 
+<!--<p align="center">
+
 ![CRUD](https://github.com/prathi736/CRUD-LS-operations/assets/63576303/d73af127-f050-4a87-87cf-3a40a3e5f448)
 
+</p>-->
+
+<p align="center">
+  <img src="https://github.com/prathi736/CRUD-LS-operations/assets/63576303/d73af127-f050-4a87-87cf-3a40a3e5f448" alt="Screenshot"/>
+</p>
 
 ## 😀 Author
 
