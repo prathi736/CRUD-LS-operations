@@ -1,6 +1,8 @@
 # 🗂 CRUD Operations
 
 I have created CRUD (create, read, update and delete) operations with the help of React and Tailwind CSS. I have stored the data in the local storage of the browser. All these operations applied by me are on the same storage. 
+
+
 ## 👨‍💻 Tech Used 
 
 **Tool(s):** VS Code, Git, Chrome Browser
